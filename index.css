@@ -1,0 +1,17 @@
+h3{ color: #8CB9D6; 
+	text-align:center;
+}
+
+body {background-image: url("http://media.istockphoto.com/photos/beautiful-sky-with-white-cloud-background-picture-id517897328?k=6&m=517897328&s=170667a&w=0&h=peqy8c1rFouhm7jd4BbpB-EbRB6fKEPeYi4cOlaH8oc=");
+	background-size: cover
+}
+
+.navbar{ background: blue;
+}
+
+.navbar-brand { color: white;
+}
+
+.bg-primary {
+	color: black;
+}
